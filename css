@@ -1,0 +1,22 @@
+#Cybersecurity 
+{
+text-align: center;
+font-size: 18px;
+font-weight: bold;
+}
+
+table tbody tr:nth-child(2)
+{
+font-size: 14px;
+text-decoration: underline;
+text-align: center;
+}
+
+table tr:nth-child(n+2)
+{
+font-size: 12px;
+text-align: left;
+}
+table, th, td {
+  border: 5px solid black;
+}
